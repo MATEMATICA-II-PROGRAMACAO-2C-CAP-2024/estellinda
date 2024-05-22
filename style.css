@@ -14,5 +14,10 @@ padding: 0;
 }
 
 .conteudo-principal{
-    background-image: url(./img/Netflix-divulgacao.jpg.webp);
+    background-image: url("./img/Netflix-divulgacao.jpg.webp");
+    background-repeat: no-repeat ;
+}
+
+.container{
+    height: 100vh;
 }
